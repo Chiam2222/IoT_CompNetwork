@@ -1,2 +1,2 @@
 # IoT_CompNetwork
-Our project optimized agricultural practices through the development of an Agricultural IoT System.
+Our project optimized agricultural practices through the development of an Agricultural IoT System. Our goals include implementing an automated irrigation system to optimize water distribution, improving soil quality management by providing real-time data on moisture, temperature, and humidity, enhancing crop yield and quality through precision agriculture techniques, and empowering farmers with actionable insights and decision-making tools via a user-friendly interface accessible through Home Assistant. By achieving these goals, we aim to revolutionize farming practices, promote sustainable agriculture, and improve the livelihoods of farmers.
